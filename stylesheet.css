@@ -1,0 +1,125 @@
+* {
+	margin:0;
+	padding:0;
+}
+
+
+header {
+    height: 65px;
+    width: 100%;
+    background-color: rgba(34, 49, 52, 0.9);
+    position: fixed;
+    top: 0;
+    z-index: 10;
+  }
+
+
+
+
+
+.left{
+  float:left;
+}
+
+
+ .right a {
+ color: white;
+ float: right;
+ padding-top:20px;
+ padding-right: 20px;
+ font-size: 20px;
+ padding-left: 10px;
+ padding-bottom: 20px;
+ }
+ 
+ .right a:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+  
+.background {
+    
+    /* padding-bottom: 40px; */
+    color : white;
+    /* width: 150px; */
+    /* background-image: url(images/maxresdefault.jpg); */
+    background-size: cover;
+    text-align: center;
+    height: 50px;
+
+}
+
+  .backImg{
+    height:800px;
+    width:100%;
+  }
+
+
+
+ .logo{
+    width: 150x;
+    height: 50px;
+    padding-left: 10px;
+    padding-top: 10px;
+  }
+
+  .heading{
+    top: 130px;
+    
+    position: absolute;
+    left: 20%;
+    /* transform: translateY(-25%); */
+
+    color:white;
+    
+  }
+ .webhosting{
+  color: white;
+  background: #0000ff;
+  border: 2px solid #fff;
+  padding: 20px;
+  border-radius: 10px;
+  
+  
+
+}
+.wordpress{
+  color: white;
+  background:#0000ff;
+  border: 2px solid #fff;
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 20px;
+  margin-left:50px;
+}
+
+.button1 a:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+.button1{
+  margin-top: 50px;
+  margin-left: 4.533%;
+}
+
+.text{
+  margin-top: 5px;
+}
+
+.image1{
+  margin-top: 20px;
+  width: 290px;
+  height:  190px;
+  
+}
+
+.blogbox{
+    height: 350px;
+    width: 350px;
+   border: 1px solid white ; 
+   margin: 20px 
+}
+.blogcontent{
+ margin-left: 30.33%;
+}
+.movingtext{
+  margin-top: 50px;
+}
