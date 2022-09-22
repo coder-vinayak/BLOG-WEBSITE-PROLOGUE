@@ -108,10 +108,13 @@ header {
   margin-top: 20px;
   width: 290px;
   height:  190px;
+  border-radius: 10px 10px 10px 10px;
   
 }
 
+
 .blogbox{
+  border-radius: 10px 10px 10px 10px;
     height: 350px;
     width: 350px;
    border: 1px solid white ; 
